@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +11,32 @@
       "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\models\\icescreamproject3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\icescreamproject3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\models\\icescreamproject3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:models\\icescreamproject3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\controllers\\membershipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:controllers\\membershipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44CDD20D-1B15-4F38-9BF6-0C4CD91CEFB5}|demoDataFirst.csproj|c:\\users\\tam\\source\\repos\\demodatafirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +70,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:53:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:48:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
@@ -79,69 +113,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Order.cs",
-              "RelativeToolTip": "Models\\Order.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T11:00:35.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MembershipsController.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\MembershipsController.cs",
               "RelativeDocumentMoniker": "Controllers\\MembershipsController.cs",
               "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\MembershipsController.cs",
               "RelativeToolTip": "Controllers\\MembershipsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-17T10:49:09.045Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IceScreamProject3Context.cs",
-              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\IceScreamProject3Context.cs",
-              "RelativeDocumentMoniker": "Models\\IceScreamProject3Context.cs",
-              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\IceScreamProject3Context.cs",
-              "RelativeToolTip": "Models\\IceScreamProject3Context.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAowEcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:55:30.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-10T12:13:14.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\SQLQuery1.sql",
-              "RelativeToolTip": "SQLQuery1.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-12-10T12:32:44.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
@@ -153,20 +138,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Membership.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Membership.cs",
               "RelativeDocumentMoniker": "Models\\Membership.cs",
               "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Membership.cs",
               "RelativeToolTip": "Models\\Membership.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T13:04:16.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T11:00:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:17:50.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IceScreamProject3Context.cs",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\IceScreamProject3Context.cs",
+              "RelativeDocumentMoniker": "Models\\IceScreamProject3Context.cs",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\IceScreamProject3Context.cs",
+              "RelativeToolTip": "Models\\IceScreamProject3Context.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA0wEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:55:30.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-10T12:32:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T12:13:14.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
@@ -179,20 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T12:17:50.819Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
@@ -204,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -212,12 +246,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T05:16:00.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T05:16:00.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "demoDataFirst.csproj",
               "DocumentMoniker": "C:\\Users\\TAM\\source\\repos\\demoDataFirst\\demoDataFirst.csproj",
               "RelativeDocumentMoniker": "demoDataFirst.csproj",
