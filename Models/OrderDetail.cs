@@ -14,6 +14,7 @@ namespace demoDataFirst.Models
 
         [Required(ErrorMessage = "OrderId không được để trống")]
         [Range(1, int.MaxValue, ErrorMessage = "OrderId phải lớn hơn 0")]
+        [Column("OrderId")]
         public int? OrderId { get; set; }
 
         [Required(ErrorMessage = "ProductId không được để trống")]
