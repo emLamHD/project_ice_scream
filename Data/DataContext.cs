@@ -15,5 +15,7 @@ namespace demoDataFirst.Data
         }
 
         public DbSet<demoDataFirst.Models.User> User { get; set; } = default!;
+        public DbSet<demoDataFirst.Models.Membership> Membership { get; set; } = default!;
+        public DbSet<demoDataFirst.Models.Order> Order { get; set; } = default!;
     }
 }
